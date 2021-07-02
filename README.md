@@ -2,14 +2,14 @@
 
 ### [Live Site](https://60df10a4c5f3c1dcbcb16a8a--covicure-chat-application.netlify.app/)
 
-![Chat Application UI](https://drive.google.com/file/d/1YvX8EkuWwI9MERf5-7jPEI__EYvedTnB/view?usp=sharing)
+![Chat Application UI](Readme_Data/CoviCure Chat App UI.png)
 
-## Tech Stack:
+## Tech Stack Used:
 *Front-End: Reactjs, HTML, CSS, JS*<br/>
 *Back-End: Node.js, Express, Socket.io*<br/>
 
-## Demo:
-![Demo](https://drive.google.com/file/d/1GcAeGUSzRQXC_mlfFJLBPMXG_g98KDcV/view?usp=sharing)
+## Demo Video:
+![Demo Video](Readme_Data/CoviCure Chat App Project Demo.mp4)
 
 *Project is live At: https://60df10a4c5f3c1dcbcb16a8a--covicure-chat-application.netlify.app/*
 
