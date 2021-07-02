@@ -9,7 +9,7 @@
 *Back-End: Node.js, Express, Socket.io*<br/>
 
 ## Demo Video:
-![Demo Video](https://github.com/Trijal-Bhardwaj/covicure_chat_application/blob/master/CoviCureProjectDemo.mp4)
+![Demo Video](https://github.com/Trijal-Bhardwaj/covicure_chat_application/blob/master/CoviCureProjectDemo.gif)
 
 *Project is live At: https://60df10a4c5f3c1dcbcb16a8a--covicure-chat-application.netlify.app/*
 
