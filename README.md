@@ -1,0 +1,1 @@
+# covicure_chat_application
